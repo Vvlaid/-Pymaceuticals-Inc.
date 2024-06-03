@@ -1,3 +1,6 @@
+![image](https://github.com/Vvlaid/Pymaceuticals-Inc./assets/166451251/336b8cd7-d1dc-4107-b06a-94ae325520d9)
+
+
 # Pymaceuticals-Inc.
 The analysis is based on the data provided in two CSV files for Pymaceuticals Inc. about 249 mice which were tested in this study to compare the performance of Capomulin (the drug of interest) againts other treatment regimens.
 
